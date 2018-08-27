@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daftar Film</string>
+    <string name="search_hint">Masukan Kata</string>
+    <string name="detail">Detail</string>
+    <string name="view">Lihat</string>
+</resources>

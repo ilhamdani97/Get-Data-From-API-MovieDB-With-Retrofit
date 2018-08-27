@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Catalogue Movie</string>
+    <string name="search_hint">Input Word</string>
+    <string name="detail">Detail</string>
+    <string name="view">View</string>
+</resources>
